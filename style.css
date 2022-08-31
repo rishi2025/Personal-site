@@ -28,7 +28,6 @@
 }   
 
 .top_cloud {
-    display: flex;
     position: relative;
     left: 60%;
     bottom: 100%;
@@ -38,7 +37,6 @@
 }
 
 .bottom_cloud {
-    display: flex;;
     position: relative;
     right: 30%;
     bottom: 40%;
@@ -46,7 +44,6 @@
 }
 
 .third_cloud {
-    display: flex;
     height: 43%;
     position: relative;
     right: 60%;
@@ -55,7 +52,6 @@
 }
 
 .bird {
-    display: flex;
     height: 43%;
     position: relative;
     left: 45%;
@@ -139,6 +135,10 @@
     display: flex;
     flex-direction: row;
     padding-bottom: 50px;
+}
+
+.contact_icons :hover {
+    background-color: rgb(92, 171, 58);
 }
 
 .profile {
