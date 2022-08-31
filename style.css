@@ -10,8 +10,9 @@
     align-items: center;
     text-align: center;
     background-color: #B8F1B0;
-    height: 720px;
+    height: 100%;
     width: 100%;
+    padding-bottom: 50px;
 }
 
 .name {
